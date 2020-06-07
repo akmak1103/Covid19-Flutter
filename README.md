@@ -1,6 +1,6 @@
-# fluttercovid
+# COVID-19 Flutter
 
-A covid19 app made using flutter.
+A covid19 stats tracker app made using flutter.
 
 ## Getting Started
 
