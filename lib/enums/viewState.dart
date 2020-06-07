@@ -1,0 +1,1 @@
+enum ViewState{Idle,Busy}   //identifiers to know when the data is being updated/gathered
