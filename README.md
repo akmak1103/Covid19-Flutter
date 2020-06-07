@@ -2,6 +2,10 @@
 
 A covid19 stats tracker app made using flutter.
 
+![SplashScreen](screenshots/splashScreen.jpg "Splash Screen")
+![HomeScreen](screenshots/homeScreen.jpg "Home Screen")
+![Table Scroll View](screenshots/scrollTable.jpg "Table Scroll View")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
